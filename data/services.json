@@ -1,0 +1,225 @@
+[
+  {
+    "id": "casting-re-panels",
+    "number": "01",
+    "title": "Casting of RE Panels",
+    "summary": "In-house casting yard with precision steel moulds, M40/M45 concrete, certified rebar, batch QC, and dispatch management.",
+    "features": [
+      "Dedicated casting yard with steel proprietary moulds",
+      "M40 / M45 grade concrete per project specification",
+      "Rebar cage fabrication, assembly, and placement",
+      "Wet curing, visual and dimensional inspection",
+      "Batch records and material test documentation",
+      "Organised stacking, marking, and site dispatch"
+    ]
+  },
+  {
+    "id": "erection-re-panels",
+    "number": "02",
+    "title": "Erection of RE Panels",
+    "summary": "Hydra and ACE crane operations for precise panel erection, geogrid placement, fill compaction, and structural sign-off.",
+    "features": [
+      "Escorts Hydra 14 and ACE 14XW crane operations",
+      "Certified riggers and trained installation crew",
+      "Panel plumb and level setting with survey instruments",
+      "Geogrid installation at specified spacing intervals",
+      "Engineered fill placement and compaction testing",
+      "Final alignment, coping, and structural sign-off"
+    ]
+  },
+  {
+    "id": "level-pad-construction",
+    "number": "03",
+    "title": "Level Pad Construction",
+    "summary": "PCC level pad foundations for RE walls — trench excavation, surveying, laser levelling, and cured finish before panel erection.",
+    "features": [
+      "Trench excavation to design depth and width",
+      "Surveying and laser level marking",
+      "PCC level pad casting with correct grade concrete",
+      "Elevation set to design drawing specification",
+      "Curing and inspection record before erection begins"
+    ]
+  },
+  {
+    "id": "road-formation",
+    "number": "04",
+    "title": "Road Formation & Earthwork",
+    "summary": "Bulk earthwork, embankment construction, and subgrade preparation for stable road formations ready for pavement layers.",
+    "features": [
+      "Bulk earthwork, cut, and fill operations",
+      "Embankment construction and shaping",
+      "Motorgrader profiling — camber and cross-fall",
+      "Compaction to specified Modified Proctor density",
+      "Subgrade trimming and level check"
+    ]
+  },
+  {
+    "id": "panel-transport-logistics",
+    "number": "05",
+    "title": "Panel Transport & Logistics",
+    "summary": "Complete logistics chain from casting yard to site — low-bed trailers, route surveys, and on-site sequencing.",
+    "features": [
+      "Low-bed trailer transport for RE panels",
+      "Route survey and over-dimensional load permits",
+      "On-site panel numbering, stacking, and management",
+      "Aggregate, fill, and concrete material haulage",
+      "Equipment mobilisation and de-mobilisation"
+    ]
+  },
+  {
+    "id": "project-management-qa",
+    "number": "06",
+    "title": "Project Management & QA",
+    "summary": "Rigorous QA/QC procedures and complete documentation across every stage of construction.",
+    "features": [
+      "Dedicated site engineer and supervisors on each project",
+      "Daily progress logs and site photography",
+      "QA/QC documentation and checklists",
+      "Third-party laboratory test coordination",
+      "Weekly client progress reports",
+      "As-built records and DPR submission"
+    ]
+  },
+  {
+    "id": "architectural-design",
+    "number": "07",
+    "title": "Architectural Design & Planning",
+    "summary": "Concept design and site planning support, from early concept through to buildable, compliant design.",
+    "features": [
+      "Concept design and site planning",
+      "Drawing preparation and documentation",
+      "Regulatory and approval coordination"
+    ]
+  },
+  {
+    "id": "engineering-consultancy",
+    "number": "08",
+    "title": "Engineering Consultancy & Technical Testing",
+    "summary": "Technical testing and analysis, and engineering consultancy for material quality and structural performance confidence.",
+    "features": [
+      "Engineering consultancy and technical advisory",
+      "Technical testing and analysis coordination",
+      "Compliance review against IS codes and standards"
+    ]
+  },
+  {
+    "id": "highway-road-consultancy",
+    "number": "09",
+    "title": "Highway & Road Project Consultancy",
+    "summary": "End-to-end technical consultancy for highway and road projects — feasibility, design review, and construction supervision.",
+    "features": [
+      "Feasibility and technical due diligence",
+      "Design and drawing review against IRC/MoRTH standards",
+      "Specification and BOQ compliance checks",
+      "Construction stage supervision and reporting"
+    ]
+  },
+  {
+    "id": "nsv-survey",
+    "number": "10",
+    "title": "NSV Survey",
+    "summary": "Network Survey Vehicle surveys for high-speed pavement condition assessment across long highway stretches.",
+    "features": [
+      "High-speed roughness (IRI) and rutting measurement",
+      "Crack and texture data capture",
+      "Network-level condition reporting",
+      "Data suitable for pavement management systems"
+    ]
+  },
+  {
+    "id": "fwd-test",
+    "number": "11",
+    "title": "FWD Test",
+    "summary": "Falling Weight Deflectometer testing to evaluate structural strength and load-bearing capacity of pavements.",
+    "features": [
+      "Structural evaluation of flexible pavements",
+      "Deflection basin measurement at design chainages",
+      "Back-calculation of layer moduli",
+      "Overlay design input reports"
+    ]
+  },
+  {
+    "id": "ndt-test",
+    "number": "12",
+    "title": "NDT Test",
+    "summary": "Non-Destructive Testing of concrete and structural elements to assess strength and integrity without damage.",
+    "features": [
+      "Rebound hammer and UPV testing",
+      "Rebar cover and corrosion assessment",
+      "Concrete strength estimation",
+      "Structural condition assessment reports"
+    ]
+  },
+  {
+    "id": "mbiu-supervision",
+    "number": "13",
+    "title": "MBIU Supervision",
+    "summary": "Major Bridge Inspection Unit supervision for detailed inspection and condition assessment of major bridges.",
+    "features": [
+      "Principal and routine bridge inspection supervision",
+      "Defect identification and mapping",
+      "MBIU deployment coordination",
+      "Condition rating and inspection reports"
+    ]
+  },
+  {
+    "id": "box-culvert",
+    "number": "14",
+    "title": "Box Culvert",
+    "summary": "Construction of RCC box culverts for cross-drainage and minor waterway crossings.",
+    "features": [
+      "Excavation, bedding, and formation",
+      "Reinforcement cage fabrication and placement",
+      "Shuttering and stage-wise concreting",
+      "Waterproofing and backfill to specification"
+    ]
+  },
+  {
+    "id": "vehicular-underpass",
+    "number": "15",
+    "title": "Vehicular Underpass (VUP)",
+    "summary": "Execution of Vehicular Underpass structures enabling safe cross-movement of traffic beneath the highway.",
+    "features": [
+      "Foundation and substructure construction",
+      "RCC box/portal structure execution",
+      "Approach slab and wing wall construction",
+      "Waterproofing and structural finishing"
+    ]
+  },
+  {
+    "id": "light-vehicular-underpass",
+    "number": "16",
+    "title": "Light Vehicular Underpass (LVUP)",
+    "summary": "Construction of Light Vehicular Underpass structures for local and agricultural traffic connectivity.",
+    "features": [
+      "Design-chainage-specific structure execution",
+      "Reinforcement, shuttering, and concreting",
+      "Approach road tie-in and finishing",
+      "QA/QC documentation and handover"
+    ]
+  },
+  {
+    "id": "minor-bridge",
+    "number": "17",
+    "title": "Minor Bridge (MNB)",
+    "summary": "Execution of Minor Bridge structures across streams and waterways along the highway alignment.",
+    "features": [
+      "Foundation and substructure construction",
+      "Pier, abutment, and bearing works",
+      "Superstructure and deck slab execution",
+      "Expansion joint and finishing works"
+    ]
+  },
+  {
+    "id": "roadside-drain",
+    "number": "18",
+    "title": "Roadside Drain",
+    "summary": "Construction of roadside drains for effective surface water management along the highway formation.",
+    "features": [
+      "Lined and unlined drain construction",
+      "Catch pit and chamber construction",
+      "Outfall connection to cross-drainage structures",
+      "Longitudinal grading to design slope"
+    ]
+  }
+]

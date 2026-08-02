@@ -1,0 +1,434 @@
+[
+  {
+    "id": 1,
+    "title": "Rebar Laying — Culvert Base",
+    "category": "casting",
+    "description": "Reinforcement mesh laid out for a box culvert base slab.",
+    "thumb": "assests/images/gallery/thumbs/1.jpeg",
+    "full": "assests/images/gallery/1.jpeg"
+  },
+  {
+    "id": 2,
+    "title": "Site Team at Work",
+    "category": "site",
+    "description": "Workers preparing reinforcement ahead of a concrete pour.",
+    "thumb": "assests/images/gallery/thumbs/2.jpeg",
+    "full": "assests/images/gallery/2.jpeg"
+  },
+  {
+    "id": 3,
+    "title": "Underpass Reinforcement",
+    "category": "casting",
+    "description": "Rebar cage fabrication at a highway underpass structure.",
+    "thumb": "assests/images/gallery/thumbs/3.jpeg",
+    "full": "assests/images/gallery/3.jpeg"
+  },
+  {
+    "id": 4,
+    "title": "Culvert Excavation & Rebar",
+    "category": "casting",
+    "description": "Team assembling reinforcement inside an excavated culvert trench.",
+    "thumb": "assests/images/gallery/thumbs/4.jpeg",
+    "full": "assests/images/gallery/4.jpeg"
+  },
+  {
+    "id": 5,
+    "title": "Embankment & Rebar Cage",
+    "category": "casting",
+    "description": "Reinforcement cage set within an embankment excavation.",
+    "thumb": "assests/images/gallery/thumbs/5.jpeg",
+    "full": "assests/images/gallery/5.jpeg"
+  },
+  {
+    "id": 6,
+    "title": "Ready-Mix Concrete Pour",
+    "category": "casting",
+    "description": "Concrete being pumped into shuttered formwork on site.",
+    "thumb": "assests/images/gallery/thumbs/6.jpeg",
+    "full": "assests/images/gallery/6.jpeg"
+  },
+  {
+    "id": 7,
+    "title": "Formwork & Concreting",
+    "category": "casting",
+    "description": "Shuttered structural pour in progress with site crew.",
+    "thumb": "assests/images/gallery/thumbs/7.jpeg",
+    "full": "assests/images/gallery/7.jpeg"
+  },
+  {
+    "id": 8,
+    "title": "Night Concreting Works",
+    "category": "casting",
+    "description": "Round-the-clock concreting to keep the project on schedule.",
+    "thumb": "assests/images/gallery/thumbs/8.jpeg",
+    "full": "assests/images/gallery/8.jpeg"
+  },
+  {
+    "id": 9,
+    "title": "Slab Finishing at Night",
+    "category": "casting",
+    "description": "Workers screeding and finishing a freshly poured slab.",
+    "thumb": "assests/images/gallery/thumbs/9.jpeg",
+    "full": "assests/images/gallery/9.jpeg"
+  },
+  {
+    "id": 10,
+    "title": "Underpass Structure",
+    "category": "casting",
+    "description": "Completed underpass shuttering ready for the next pour.",
+    "thumb": "assests/images/gallery/thumbs/10.jpeg",
+    "full": "assests/images/gallery/10.jpeg"
+  },
+  {
+    "id": 11,
+    "title": "Hydra Crane Panel Handling",
+    "category": "re-wall",
+    "description": "Mobile crane positioning precast panels near palm-lined terrain.",
+    "thumb": "assests/images/gallery/thumbs/11.jpeg",
+    "full": "assests/images/gallery/11.jpeg"
+  },
+  {
+    "id": 12,
+    "title": "Panel Placement on Deck",
+    "category": "casting",
+    "description": "Site worker guiding a precast panel into position.",
+    "thumb": "assests/images/gallery/thumbs/12.jpeg",
+    "full": "assests/images/gallery/12.jpeg"
+  },
+  {
+    "id": 13,
+    "title": "Road Formation — Aerial View",
+    "category": "road",
+    "description": "Wide-angle view of a completed road formation corridor.",
+    "thumb": "assests/images/gallery/thumbs/13.jpeg",
+    "full": "assests/images/gallery/13.jpeg"
+  },
+  {
+    "id": 14,
+    "title": "Stacked RE Panels",
+    "category": "casting",
+    "description": "Cured Reinforced Earth panels stacked and ready for dispatch.",
+    "thumb": "assests/images/gallery/thumbs/14.jpeg",
+    "full": "assests/images/gallery/14.jpeg"
+  },
+  {
+    "id": 15,
+    "title": "Geogrid Laid on Subgrade",
+    "category": "road",
+    "description": "Geogrid reinforcement rolled out across the road formation.",
+    "thumb": "assests/images/gallery/thumbs/15.jpeg",
+    "full": "assests/images/gallery/15.jpeg"
+  },
+  {
+    "id": 16,
+    "title": "Crane Lifting Precast Units",
+    "category": "re-wall",
+    "description": "Crane lifting precast units at the erection site.",
+    "thumb": "assests/images/gallery/thumbs/16.jpeg",
+    "full": "assests/images/gallery/16.jpeg"
+  },
+  {
+    "id": 17,
+    "title": "Panel Curing at Casting Yard",
+    "category": "casting",
+    "description": "Site engineer inspecting panels during the curing process.",
+    "thumb": "assests/images/gallery/thumbs/17.jpeg",
+    "full": "assests/images/gallery/17.jpeg"
+  },
+  {
+    "id": 18,
+    "title": "Watering & Curing Panels",
+    "category": "casting",
+    "description": "Worker wet-curing freshly cast panels at the yard.",
+    "thumb": "assests/images/gallery/thumbs/18.jpeg",
+    "full": "assests/images/gallery/18.jpeg"
+  },
+  {
+    "id": 19,
+    "title": "Coping Works on RE Wall",
+    "category": "re-wall",
+    "description": "Finishing coping works along the top of an erected RE wall.",
+    "thumb": "assests/images/gallery/thumbs/19.jpeg",
+    "full": "assests/images/gallery/19.jpeg"
+  },
+  {
+    "id": 20,
+    "title": "Formation Grading Works",
+    "category": "road",
+    "description": "Compaction and grading equipment shaping the road formation.",
+    "thumb": "assests/images/gallery/thumbs/20.jpeg",
+    "full": "assests/images/gallery/20.jpeg"
+  },
+  {
+    "id": 21,
+    "title": "RE Panel Erection",
+    "category": "re-wall",
+    "description": "Crane lifting an RE facing panel into position alongside compaction equipment.",
+    "thumb": "assests/images/gallery/thumbs/21.jpeg",
+    "full": "assests/images/gallery/21.jpeg"
+  },
+  {
+    "id": 22,
+    "title": "NSV Survey Vehicle",
+    "category": "survey",
+    "description": "Network Survey Vehicle deployed for high-speed pavement condition survey.",
+    "thumb": "assests/images/gallery/thumbs/22.jpeg",
+    "full": "assests/images/gallery/22.jpeg"
+  },
+  {
+    "id": 23,
+    "title": "NSV Data Collection Run",
+    "category": "survey",
+    "description": "NSV survey run recording pavement roughness and rutting data on a highway stretch.",
+    "thumb": "assests/images/gallery/thumbs/23.jpeg",
+    "full": "assests/images/gallery/23.png"
+  },
+  {
+    "id": 24,
+    "title": "NSV Survey — Highway Stretch",
+    "category": "survey",
+    "description": "Network Survey Vehicle in transit along a project highway section during a condition survey.",
+    "thumb": "assests/images/gallery/thumbs/24.jpeg",
+    "full": "assests/images/gallery/24.png"
+  },
+  {
+    "id": 25,
+    "title": "FWD Test Setup",
+    "category": "testing",
+    "description": "Falling Weight Deflectometer positioned on pavement for structural deflection testing.",
+    "thumb": "assests/images/gallery/thumbs/25.jpeg",
+    "full": "assests/images/gallery/25.png"
+  },
+  {
+    "id": 26,
+    "title": "FWD Testing in Progress",
+    "category": "testing",
+    "description": "Field team conducting Falling Weight Deflectometer testing on a road section.",
+    "thumb": "assests/images/gallery/thumbs/26.jpeg",
+    "full": "assests/images/gallery/26.png"
+  },
+  {
+    "id": 27,
+    "title": "NDT Test — Structural Assessment",
+    "category": "testing",
+    "description": "Non-Destructive Testing equipment used to assess concrete structure integrity.",
+    "thumb": "assests/images/gallery/thumbs/27.jpeg",
+    "full": "assests/images/gallery/27.png"
+  },
+  {
+    "id": 28,
+    "title": "NDT Test in Progress",
+    "category": "testing",
+    "description": "Engineer carrying out Non-Destructive Testing on a concrete structural element.",
+    "thumb": "assests/images/gallery/thumbs/28.jpeg",
+    "full": "assests/images/gallery/28.png"
+  },
+  {
+    "id": 29,
+    "title": "Site Visit — Progress Review",
+    "category": "site",
+    "description": "Engineering team on a project site visit reviewing construction progress.",
+    "thumb": "assests/images/gallery/thumbs/29.jpeg",
+    "full": "assests/images/gallery/29.png"
+  },
+  {
+    "id": 30,
+    "title": "Construction Site Inspection",
+    "category": "site",
+    "description": "Site inspection during ongoing highway construction works.",
+    "thumb": "assests/images/gallery/thumbs/30.jpeg",
+    "full": "assests/images/gallery/30.png"
+  },
+  {
+    "id": 31,
+    "title": "Site Visit — Field Team",
+    "category": "site",
+    "description": "Field team on-site coordinating construction and execution activities.",
+    "thumb": "assests/images/gallery/thumbs/31.jpeg",
+    "full": "assests/images/gallery/31.png"
+  },
+  {
+    "id": 32,
+    "title": "Construction Site Review",
+    "category": "site",
+    "description": "Team reviewing works at an active construction site.",
+    "thumb": "assests/images/gallery/thumbs/32.jpeg",
+    "full": "assests/images/gallery/32.png"
+  },
+  {
+    "id": 33,
+    "title": "Technical Testing — Lab Analysis",
+    "category": "testing",
+    "description": "Material sample being prepared for technical testing and analysis.",
+    "thumb": "assests/images/gallery/thumbs/33.jpeg",
+    "full": "assests/images/gallery/33.png"
+  },
+  {
+    "id": 34,
+    "title": "Technical Testing — Field Sampling",
+    "category": "testing",
+    "description": "Field sampling for technical testing and quality analysis.",
+    "thumb": "assests/images/gallery/thumbs/34.jpeg",
+    "full": "assests/images/gallery/34.png"
+  },
+  {
+    "id": 35,
+    "title": "Technical Testing — Equipment Setup",
+    "category": "testing",
+    "description": "Testing equipment set up for structural and material analysis.",
+    "thumb": "assests/images/gallery/thumbs/35.jpeg",
+    "full": "assests/images/gallery/35.png"
+  },
+  {
+    "id": 36,
+    "title": "Technical Testing — Site Assessment",
+    "category": "testing",
+    "description": "Site-based technical testing and structural assessment underway.",
+    "thumb": "assests/images/gallery/thumbs/36.jpeg",
+    "full": "assests/images/gallery/36.png"
+  },
+  {
+    "id": 37,
+    "title": "Technical Testing — Data Recording",
+    "category": "testing",
+    "description": "Engineer recording test readings during a technical assessment.",
+    "thumb": "assests/images/gallery/thumbs/37.jpeg",
+    "full": "assests/images/gallery/37.png"
+  },
+  {
+    "id": 38,
+    "title": "Technical Testing — Quality Check",
+    "category": "testing",
+    "description": "Quality check testing carried out as part of technical analysis.",
+    "thumb": "assests/images/gallery/thumbs/38.jpeg",
+    "full": "assests/images/gallery/38.png"
+  },
+  {
+    "id": 39,
+    "title": "Technical Testing — Site Visit",
+    "category": "testing",
+    "description": "On-site technical testing and analysis activity.",
+    "thumb": "assests/images/gallery/thumbs/39.jpeg",
+    "full": "assests/images/gallery/39.jpg"
+  },
+  {
+    "id": 40,
+    "title": "Engineering Consultancy — Site Discussion",
+    "category": "consultancy",
+    "description": "Engineering consultancy team discussing project requirements on site.",
+    "thumb": "assests/images/gallery/thumbs/40.jpeg",
+    "full": "assests/images/gallery/40.png"
+  },
+  {
+    "id": 41,
+    "title": "Engineering Consultancy — Review Meeting",
+    "category": "consultancy",
+    "description": "Technical review meeting as part of engineering consultancy services.",
+    "thumb": "assests/images/gallery/thumbs/41.jpeg",
+    "full": "assests/images/gallery/41.png"
+  },
+  {
+    "id": 42,
+    "title": "Engineering Consultancy — Drawing Review",
+    "category": "consultancy",
+    "description": "Engineering team reviewing project drawings and specifications.",
+    "thumb": "assests/images/gallery/thumbs/42.jpeg",
+    "full": "assests/images/gallery/42.png"
+  },
+  {
+    "id": 43,
+    "title": "Engineering Consultancy — Technical Advisory",
+    "category": "consultancy",
+    "description": "Technical advisory session as part of engineering consultancy scope.",
+    "thumb": "assests/images/gallery/thumbs/43.jpeg",
+    "full": "assests/images/gallery/43.png"
+  },
+  {
+    "id": 44,
+    "title": "Engineering Consultancy — Site Coordination",
+    "category": "consultancy",
+    "description": "Coordination between consultancy and site execution teams.",
+    "thumb": "assests/images/gallery/thumbs/44.jpeg",
+    "full": "assests/images/gallery/44.png"
+  },
+  {
+    "id": 45,
+    "title": "Project Management — Site Coordination",
+    "category": "site",
+    "description": "Project management team coordinating execution activities on site.",
+    "thumb": "assests/images/gallery/thumbs/45.jpeg",
+    "full": "assests/images/gallery/45.png"
+  },
+  {
+    "id": 46,
+    "title": "Project Management — Progress Tracking",
+    "category": "site",
+    "description": "Progress tracking and supervision as part of execution support.",
+    "thumb": "assests/images/gallery/thumbs/46.jpeg",
+    "full": "assests/images/gallery/46.png"
+  },
+  {
+    "id": 47,
+    "title": "Project Management — Field Review",
+    "category": "site",
+    "description": "Field-level review supporting project execution management.",
+    "thumb": "assests/images/gallery/thumbs/47.jpeg",
+    "full": "assests/images/gallery/47.png"
+  },
+  {
+    "id": 48,
+    "title": "Project Management — Site Supervision",
+    "category": "site",
+    "description": "Supervisory visit as part of project management and execution support.",
+    "thumb": "assests/images/gallery/thumbs/48.jpeg",
+    "full": "assests/images/gallery/48.png"
+  },
+  {
+    "id": 49,
+    "title": "Project Management — Execution Support",
+    "category": "site",
+    "description": "Execution support activity coordinated by the project management team.",
+    "thumb": "assests/images/gallery/thumbs/49.jpeg",
+    "full": "assests/images/gallery/49.png"
+  },
+  {
+    "id": 50,
+    "title": "Project Management — Team Coordination",
+    "category": "site",
+    "description": "Team coordination meeting supporting project management and execution.",
+    "thumb": "assests/images/gallery/thumbs/50.jpeg",
+    "full": "assests/images/gallery/50.png"
+  },
+  {
+    "id": 51,
+    "title": "NH-40 Project Execution",
+    "category": "road",
+    "description": "Project execution works along the NH-40 highway corridor, Ranipet.",
+    "thumb": "assests/images/gallery/thumbs/51.jpeg",
+    "full": "assests/images/gallery/51.jpg"
+  },
+  {
+    "id": 52,
+    "title": "Highway Project Execution — NH-40",
+    "category": "road",
+    "description": "Execution activity on the Walajapet–Ranipet NH-40 highway corridor.",
+    "thumb": "assests/images/gallery/thumbs/52.jpeg",
+    "full": "assests/images/gallery/52.png"
+  },
+  {
+    "id": 53,
+    "title": "Highway Corridor Works — NH-40",
+    "category": "road",
+    "description": "Ongoing works along the NH-40 highway corridor near the TN/AP border.",
+    "thumb": "assests/images/gallery/thumbs/53.jpeg",
+    "full": "assests/images/gallery/53.png"
+  },
+  {
+    "id": 54,
+    "title": "Highway Site Works — NH-40",
+    "category": "road",
+    "description": "Site works along the 4-lane NH-40 highway corridor, Ranipet.",
+    "thumb": "assests/images/gallery/thumbs/54.jpeg",
+    "full": "assests/images/gallery/54.png"
+  }
+]

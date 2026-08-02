@@ -1,0 +1,35 @@
+<!--
+  Reusable navbar partial (for server-hosted deployments using assests/js/include.js).
+  The live pages in this project (index.html, about.html, etc.) already include
+  this same markup inline, so they work correctly even when opened directly from
+  disk (file://) without a server. This partial is kept in sync for convenience
+  if you later choose to wire up assests/js/include.js on a hosted server.
+-->
+<nav>
+  <a href="index.html" class="nav-logo">
+    <div class="nav-logo-mark">
+      <img src="assests/images/logo/company_logo.png" alt="Mahim Project Solutions logo" width="46" height="46">
+    </div>
+    <div class="nav-logo-text">
+      <span class="nav-logo-name">Mahim Project</span>
+      <span class="nav-logo-sub">Solutions Pvt. Ltd.</span>
+    </div>
+  </a>
+
+  <ul class="nav-links" id="navLinks">
+    <li><a href="index.html">Home</a></li>
+    <li><a href="about.html">About</a></li>
+    <li><a href="services.html">Services</a></li>
+    <li><a href="projects.html">Projects</a></li>
+    <li><a href="gallery.html">Gallery</a></li>
+    <li><a href="legal.html">Legal</a></li>
+    <li><a href="contact.html">Contact</a></li>
+  </ul>
+
+  <div class="nav-right">
+    <a href="contact.html" class="btn btn-primary">Get a Quote</a>
+    <button class="hamburger" id="hamburger" aria-label="Toggle Navigation">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</nav>

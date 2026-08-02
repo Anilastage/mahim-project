@@ -1,0 +1,172 @@
+[
+  {
+    "id": "re-wall-ap-highway",
+    "title": "Highway RE Wall Construction",
+    "subtitle": "National Highway Corridor, Andhra Pradesh",
+    "type": "re-wall",
+    "typeLabel": "RE Wall",
+    "status": "Ongoing",
+    "location": "Andhra Pradesh",
+    "period": "2025–26",
+    "cover": "assests/images/gallery/thumbs/21.jpeg",
+    "tags": ["Reinforced Earth", "Panel Erection", "Highway"],
+    "summary": "Full-cycle erection of Reinforced Earth facing panels along an active highway corridor, including geogrid placement, fill compaction, and structural sign-off.",
+    "description": "This project involves the full-cycle erection of Reinforced Earth (RE) wall panels along a national highway corridor in Andhra Pradesh. Scope includes precision panel lifting via mobile cranes, plumb-and-level alignment setting, geogrid installation at specified vertical intervals, and engineered fill placement with systematic compaction. Stage-by-stage QA/QC documentation and as-built records are submitted prior to handover.",
+    "stats": [
+      {"label": "Scope", "value": "RE Panel Erection"},
+      {"label": "Status", "value": "Ongoing"},
+      {"label": "Timeline", "value": "2025–26"}
+    ],
+    "images": [
+      "assests/images/gallery/thumbs/21.jpeg",
+      "assests/images/gallery/thumbs/19.jpeg",
+      "assests/images/gallery/thumbs/20.jpeg"
+    ]
+  },
+  {
+    "id": "casting-yard-telangana",
+    "title": "RE Panel Precast Facility",
+    "subtitle": "Centralised Casting Yard, Telangana",
+    "type": "casting",
+    "typeLabel": "Casting Yard",
+    "status": "Active",
+    "location": "Telangana",
+    "period": "2025",
+    "cover": "assests/images/gallery/thumbs/18.jpeg",
+    "tags": ["Casting Yard", "QA/QC", "Precast"],
+    "summary": "In-house precast facility producing M40/M45 grade Reinforced Earth facing panels using precision steel moulds, wet curing, and full batch logging.",
+    "description": "Our dedicated casting yard in Telangana manufactures high-durability precast RE panels utilizing heavy-duty steel moulds, M40/M45 design mix concrete, and certified rebar cages. Produced panels undergo systematic wet-curing, rigorous quality inspection, structural marking, and organized yard stacking to supply active highway erection sites across South India.",
+    "stats": [
+      {"label": "Scope", "value": "Panel Casting &amp; Supply"},
+      {"label": "Status", "value": "Active"},
+      {"label": "Production Output", "value": "5,000+ Panels"}
+    ],
+    "images": [
+      "assests/images/gallery/thumbs/18.jpeg",
+      "assests/images/gallery/thumbs/17.jpeg",
+      "assests/images/gallery/thumbs/14.jpeg"
+    ]
+  },
+  {
+    "id": "state-highway-formation",
+    "title": "State Highway Subgrade Formation",
+    "subtitle": "Bulk Earthwork &amp; Subgrade Prep, South India",
+    "type": "road",
+    "typeLabel": "Road Formation",
+    "status": "Completed",
+    "location": "South India",
+    "period": "2025",
+    "cover": "assests/images/gallery/thumbs/15.jpeg",
+    "tags": ["Earthwork", "Geogrid", "Compaction"],
+    "summary": "Bulk earthwork, geogrid stabilization, and embankment compaction to bring the state highway formation to design subgrade levels.",
+    "description": "Comprehensive site preparation covering bulk earthwork, embankment formation, and geogrid reinforcement installation ahead of pavement construction. The site team profiled the subgrade to strict design camber and cross-fall parameters, achieving required dry density standards prior to formal handover to the pavement contractor.",
+    "stats": [
+      {"label": "Scope", "value": "Road Subgrade &amp; Formation"},
+      {"label": "Status", "value": "Completed"},
+      {"label": "Timeline", "value": "2025"}
+    ],
+    "images": [
+      "assests/images/gallery/thumbs/15.jpeg",
+      "assests/images/gallery/thumbs/16.jpeg",
+      "assests/images/gallery/thumbs/13.jpeg"
+    ]
+  },
+  {
+    "id": "box-culvert-foundation",
+    "title": "Box Culvert Substructure",
+    "subtitle": "Foundation &amp; Concrete Works, Karnataka",
+    "type": "re-wall",
+    "typeLabel": "Structural Works",
+    "status": "Completed",
+    "location": "Karnataka",
+    "period": "2025",
+    "cover": "assests/images/gallery/thumbs/3.jpeg",
+    "tags": ["Reinforcement", "Shuttering", "Concreting"],
+    "summary": "Rebar fabrication, precision shuttering, and structural concrete pouring for a RCC box culvert foundation serving a highway underpass.",
+    "description": "Execution of foundation structural works for a RCC box culvert beneath an active highway grade separator. The scope encompassed rebar cage assembly per structural drawings, heavy-duty edge formwork, high-grade ready-mix concrete placement using immersion vibrators, and wet curing protocol prior to backfilling.",
+    "stats": [
+      {"label": "Scope", "value": "RCC Structural Works"},
+      {"label": "Status", "value": "Completed"},
+      {"label": "Timeline", "value": "2025"}
+    ],
+    "images": [
+      "assests/images/gallery/thumbs/3.jpeg",
+      "assests/images/gallery/thumbs/6.jpeg",
+      "assests/images/gallery/thumbs/9.jpeg"
+    ]
+  },
+  {
+    "id": "panel-transport-logistics",
+    "title": "Intersite Structural Logistics",
+    "subtitle": "Multi-State Heavy Transport Operations",
+    "type": "casting",
+    "typeLabel": "Logistics",
+    "status": "Ongoing",
+    "location": "Multiple Sites",
+    "period": "2025–26",
+    "cover": "assests/images/gallery/thumbs/14.jpeg",
+    "tags": ["Low-bed Transport", "Crane Mobilisation"],
+    "summary": "Managed transport of cured RE panels from central casting yards to active construction sites via heavy trailers and crane fleets.",
+    "description": "End-to-end supply chain management transporting heavy precast concrete elements from primary casting yards directly to installation faces. Operations include route clearance, low-bed multi-axle trailer dispatching, site crane mobilization, offloading, and site stockyard sequencing to support installation schedules.",
+    "stats": [
+      {"label": "Scope", "value": "Transport &amp; Heavy Handling"},
+      {"label": "Status", "value": "Ongoing"},
+      {"label": "Coverage", "value": "Multi-State"}
+    ],
+    "images": [
+      "assests/images/gallery/thumbs/14.jpeg",
+      "assests/images/gallery/thumbs/11.jpeg",
+      "assests/images/gallery/thumbs/2.jpeg"
+    ]
+  },
+  {
+    "id": "underpass-slab-works",
+    "title": "Underpass Deck &amp; Wing Wall Structures",
+    "subtitle": "Highway Underpass Execution, Andhra Pradesh",
+    "type": "re-wall",
+    "typeLabel": "Structural Works",
+    "status": "Completed",
+    "location": "Andhra Pradesh",
+    "period": "2025",
+    "cover": "assests/images/gallery/thumbs/12.jpeg",
+    "tags": ["RCC", "Wing Wall", "Slab"],
+    "summary": "Reinforcement steel fixing, specialized formwork, and monolith concreting for a vehicle underpass slab and adjacent wing walls.",
+    "description": "Turnkey construction of deck slab and retaining wing walls for a vehicle underpass. Our structural execution team managed rebar cage assembly, precision timber/steel shuttering, stage-wise concrete pours, surface finishing, and compliance testing at every stage.",
+    "stats": [
+      {"label": "Scope", "value": "RCC Deck Slab &amp; Wing Walls"},
+      {"label": "Status", "value": "Completed"},
+      {"label": "Timeline", "value": "2025"}
+    ],
+    "images": [
+      "assests/images/gallery/thumbs/12.jpeg",
+      "assests/images/gallery/thumbs/4.jpeg",
+      "assests/images/gallery/thumbs/5.jpeg"
+    ]
+  },
+  {
+    "id": "nh40-walajapet-ranipet",
+    "title": "NH-40 Expressway Corridor",
+    "subtitle": "Walajapet / Ranipet to TN/AP Border (28.02 Km)",
+    "type": "re-wall",
+    "typeLabel": "RE Wall — NH-40 Highway",
+    "status": "Ongoing",
+    "location": "Ranipet, Tamil Nadu",
+    "period": "2025–26",
+    "cover": "assests/images/gallery/51.jpg",
+    "tags": ["Reinforced Earth", "Panel Casting", "Panel Erection", "NH-40", "Hybrid Annuity Mode"],
+    "summary": "Casting and erection of approximately 2.75 Lakh Sq. M. of Reinforced Earth wall panels across a 28.02 Km stretch of NH-40.",
+    "description": "Comprehensive execution of Reinforced Earth (RE) wall panels along a 28.02 Km stretch of the NH-40 4-Lane Access-Controlled Expressway Corridor (Walajapet/Ranipet to TN/AP Border, Design Chainage Km 106+800 to Km 134+821). Scope includes precision panel casting at dedicated facilities, logistics management, crane deployment, and site erection across an estimated 2.75 Lakh Sq. M. total area.",
+    "stats": [
+      {"label": "Scope", "value": "RE Panel Casting &amp; Erection"},
+      {"label": "Status", "value": "Ongoing"},
+      {"label": "Corridor Stretch", "value": "28.02 Km"},
+      {"label": "Approx. Quantity", "value": "2.75 Lakh Sq. M."}
+    ],
+    "images": [
+      "assests/images/gallery/51.jpg",
+      "assests/images/gallery/52.png",
+      "assests/images/gallery/53.png",
+      "assests/images/gallery/54.png"
+    ]
+  }
+]
