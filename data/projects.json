@@ -142,31 +142,5 @@
       "assests/images/gallery/thumbs/4.jpeg",
       "assests/images/gallery/thumbs/5.jpeg"
     ]
-  },
-  {
-    "id": "nh40-walajapet-ranipet",
-    "title": "NH-40 Expressway Corridor",
-    "subtitle": "Walajapet / Ranipet to TN/AP Border (28.02 Km)",
-    "type": "re-wall",
-    "typeLabel": "RE Wall — NH-40 Highway",
-    "status": "Ongoing",
-    "location": "Ranipet, Tamil Nadu",
-    "period": "2025–26",
-    "cover": "assests/images/gallery/51.jpg",
-    "tags": ["Reinforced Earth", "Panel Casting", "Panel Erection", "NH-40", "Hybrid Annuity Mode"],
-    "summary": "Casting and erection of approximately 2.75 Lakh Sq. M. of Reinforced Earth wall panels across a 28.02 Km stretch of NH-40.",
-    "description": "Comprehensive execution of Reinforced Earth (RE) wall panels along a 28.02 Km stretch of the NH-40 4-Lane Access-Controlled Expressway Corridor (Walajapet/Ranipet to TN/AP Border, Design Chainage Km 106+800 to Km 134+821). Scope includes precision panel casting at dedicated facilities, logistics management, crane deployment, and site erection across an estimated 2.75 Lakh Sq. M. total area.",
-    "stats": [
-      {"label": "Scope", "value": "RE Panel Casting &amp; Erection"},
-      {"label": "Status", "value": "Ongoing"},
-      {"label": "Corridor Stretch", "value": "28.02 Km"},
-      {"label": "Approx. Quantity", "value": "2.75 Lakh Sq. M."}
-    ],
-    "images": [
-      "assests/images/gallery/51.jpg",
-      "assests/images/gallery/52.png",
-      "assests/images/gallery/53.png",
-      "assests/images/gallery/54.png"
-    ]
   }
 ]
