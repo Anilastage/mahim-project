@@ -182,7 +182,7 @@
     "category": "testing",
     "description": "Field team conducting Falling Weight Deflectometer testing on a road section.",
     "thumb": "assests/images/gallery/thumbs/23.jpeg",
-    "full": "assests/images/gallery/23.png"
+    "full": "assests/images/gallery/23.jpeg"
   },
   {
     "id": 24,
@@ -190,7 +190,7 @@
     "category": "testing",
     "description": "Engineer carrying out Non-Destructive Testing on a concrete structural element.",
     "thumb": "assests/images/gallery/thumbs/24.jpeg",
-    "full": "assests/images/gallery/24.png"
+    "full": "assests/images/gallery/24.jpeg"
   },
   {
     "id": 25,
@@ -198,7 +198,7 @@
     "category": "testing",
     "description": "Field engineer performing a Mobile Bearing Integrity Unit test on a concrete structure.",
     "thumb": "assests/images/gallery/thumbs/25.jpeg",
-    "full": "assests/images/gallery/25.png"
+    "full": "assests/images/gallery/25.jpeg"
   },
   {
     "id": 26,
@@ -206,6 +206,6 @@
     "category": "testing",
     "description": "Engineers conducting a Rail Radian (RR) or Railway Track integrity test using ultrasonic equipment.",
     "thumb": "assests/images/gallery/thumbs/26.jpeg",
-    "full": "assests/images/gallery/26.png"
+    "full": "assests/images/gallery/26.jpeg"
   }
 ]
