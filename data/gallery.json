@@ -167,6 +167,7 @@
     "thumb": "assests/images/gallery/thumbs/21.jpeg",
     "full": "assests/images/gallery/21.jpeg"
   },
+  
   {
     "id": 22,
     "title": "NSV Survey Vehicle",
@@ -177,258 +178,34 @@
   },
   {
     "id": 23,
-    "title": "NSV Data Collection Run",
-    "category": "survey",
-    "description": "NSV survey run recording pavement roughness and rutting data on a highway stretch.",
+    "title": "FWD Testing in Progress",
+    "category": "testing",
+    "description": "Field team conducting Falling Weight Deflectometer testing on a road section.",
     "thumb": "assests/images/gallery/thumbs/23.jpeg",
     "full": "assests/images/gallery/23.png"
   },
   {
     "id": 24,
-    "title": "NSV Survey — Highway Stretch",
-    "category": "survey",
-    "description": "Network Survey Vehicle in transit along a project highway section during a condition survey.",
+    "title": "NDT Test in Progress",
+    "category": "testing",
+    "description": "Engineer carrying out Non-Destructive Testing on a concrete structural element.",
     "thumb": "assests/images/gallery/thumbs/24.jpeg",
     "full": "assests/images/gallery/24.png"
   },
   {
     "id": 25,
-    "title": "FWD Test Setup",
+    "title": "MBIU Test in Progress",
     "category": "testing",
-    "description": "Falling Weight Deflectometer positioned on pavement for structural deflection testing.",
+    "description": "Field engineer performing a Mobile Bearing Integrity Unit test on a concrete structure.",
     "thumb": "assests/images/gallery/thumbs/25.jpeg",
     "full": "assests/images/gallery/25.png"
   },
   {
     "id": 26,
-    "title": "FWD Testing in Progress",
+    "title": "RR Test in Progress",
     "category": "testing",
-    "description": "Field team conducting Falling Weight Deflectometer testing on a road section.",
+    "description": "Engineers conducting a Rail Radian (RR) or Railway Track integrity test using ultrasonic equipment.",
     "thumb": "assests/images/gallery/thumbs/26.jpeg",
     "full": "assests/images/gallery/26.png"
-  },
-  {
-    "id": 27,
-    "title": "NDT Test — Structural Assessment",
-    "category": "testing",
-    "description": "Non-Destructive Testing equipment used to assess concrete structure integrity.",
-    "thumb": "assests/images/gallery/thumbs/27.jpeg",
-    "full": "assests/images/gallery/27.png"
-  },
-  {
-    "id": 28,
-    "title": "NDT Test in Progress",
-    "category": "testing",
-    "description": "Engineer carrying out Non-Destructive Testing on a concrete structural element.",
-    "thumb": "assests/images/gallery/thumbs/28.jpeg",
-    "full": "assests/images/gallery/28.png"
-  },
-  {
-    "id": 29,
-    "title": "Site Visit — Progress Review",
-    "category": "site",
-    "description": "Engineering team on a project site visit reviewing construction progress.",
-    "thumb": "assests/images/gallery/thumbs/29.jpeg",
-    "full": "assests/images/gallery/29.png"
-  },
-  {
-    "id": 30,
-    "title": "Construction Site Inspection",
-    "category": "site",
-    "description": "Site inspection during ongoing highway construction works.",
-    "thumb": "assests/images/gallery/thumbs/30.jpeg",
-    "full": "assests/images/gallery/30.png"
-  },
-  {
-    "id": 31,
-    "title": "Site Visit — Field Team",
-    "category": "site",
-    "description": "Field team on-site coordinating construction and execution activities.",
-    "thumb": "assests/images/gallery/thumbs/31.jpeg",
-    "full": "assests/images/gallery/31.png"
-  },
-  {
-    "id": 32,
-    "title": "Construction Site Review",
-    "category": "site",
-    "description": "Team reviewing works at an active construction site.",
-    "thumb": "assests/images/gallery/thumbs/32.jpeg",
-    "full": "assests/images/gallery/32.png"
-  },
-  {
-    "id": 33,
-    "title": "Technical Testing — Lab Analysis",
-    "category": "testing",
-    "description": "Material sample being prepared for technical testing and analysis.",
-    "thumb": "assests/images/gallery/thumbs/33.jpeg",
-    "full": "assests/images/gallery/33.png"
-  },
-  {
-    "id": 34,
-    "title": "Technical Testing — Field Sampling",
-    "category": "testing",
-    "description": "Field sampling for technical testing and quality analysis.",
-    "thumb": "assests/images/gallery/thumbs/34.jpeg",
-    "full": "assests/images/gallery/34.png"
-  },
-  {
-    "id": 35,
-    "title": "Technical Testing — Equipment Setup",
-    "category": "testing",
-    "description": "Testing equipment set up for structural and material analysis.",
-    "thumb": "assests/images/gallery/thumbs/35.jpeg",
-    "full": "assests/images/gallery/35.png"
-  },
-  {
-    "id": 36,
-    "title": "Technical Testing — Site Assessment",
-    "category": "testing",
-    "description": "Site-based technical testing and structural assessment underway.",
-    "thumb": "assests/images/gallery/thumbs/36.jpeg",
-    "full": "assests/images/gallery/36.png"
-  },
-  {
-    "id": 37,
-    "title": "Technical Testing — Data Recording",
-    "category": "testing",
-    "description": "Engineer recording test readings during a technical assessment.",
-    "thumb": "assests/images/gallery/thumbs/37.jpeg",
-    "full": "assests/images/gallery/37.png"
-  },
-  {
-    "id": 38,
-    "title": "Technical Testing — Quality Check",
-    "category": "testing",
-    "description": "Quality check testing carried out as part of technical analysis.",
-    "thumb": "assests/images/gallery/thumbs/38.jpeg",
-    "full": "assests/images/gallery/38.png"
-  },
-  {
-    "id": 39,
-    "title": "Technical Testing — Site Visit",
-    "category": "testing",
-    "description": "On-site technical testing and analysis activity.",
-    "thumb": "assests/images/gallery/thumbs/39.jpeg",
-    "full": "assests/images/gallery/39.jpg"
-  },
-  {
-    "id": 40,
-    "title": "Engineering Consultancy — Site Discussion",
-    "category": "consultancy",
-    "description": "Engineering consultancy team discussing project requirements on site.",
-    "thumb": "assests/images/gallery/thumbs/40.jpeg",
-    "full": "assests/images/gallery/40.png"
-  },
-  {
-    "id": 41,
-    "title": "Engineering Consultancy — Review Meeting",
-    "category": "consultancy",
-    "description": "Technical review meeting as part of engineering consultancy services.",
-    "thumb": "assests/images/gallery/thumbs/41.jpeg",
-    "full": "assests/images/gallery/41.png"
-  },
-  {
-    "id": 42,
-    "title": "Engineering Consultancy — Drawing Review",
-    "category": "consultancy",
-    "description": "Engineering team reviewing project drawings and specifications.",
-    "thumb": "assests/images/gallery/thumbs/42.jpeg",
-    "full": "assests/images/gallery/42.png"
-  },
-  {
-    "id": 43,
-    "title": "Engineering Consultancy — Technical Advisory",
-    "category": "consultancy",
-    "description": "Technical advisory session as part of engineering consultancy scope.",
-    "thumb": "assests/images/gallery/thumbs/43.jpeg",
-    "full": "assests/images/gallery/43.png"
-  },
-  {
-    "id": 44,
-    "title": "Engineering Consultancy — Site Coordination",
-    "category": "consultancy",
-    "description": "Coordination between consultancy and site execution teams.",
-    "thumb": "assests/images/gallery/thumbs/44.jpeg",
-    "full": "assests/images/gallery/44.png"
-  },
-  {
-    "id": 45,
-    "title": "Project Management — Site Coordination",
-    "category": "site",
-    "description": "Project management team coordinating execution activities on site.",
-    "thumb": "assests/images/gallery/thumbs/45.jpeg",
-    "full": "assests/images/gallery/45.png"
-  },
-  {
-    "id": 46,
-    "title": "Project Management — Progress Tracking",
-    "category": "site",
-    "description": "Progress tracking and supervision as part of execution support.",
-    "thumb": "assests/images/gallery/thumbs/46.jpeg",
-    "full": "assests/images/gallery/46.png"
-  },
-  {
-    "id": 47,
-    "title": "Project Management — Field Review",
-    "category": "site",
-    "description": "Field-level review supporting project execution management.",
-    "thumb": "assests/images/gallery/thumbs/47.jpeg",
-    "full": "assests/images/gallery/47.png"
-  },
-  {
-    "id": 48,
-    "title": "Project Management — Site Supervision",
-    "category": "site",
-    "description": "Supervisory visit as part of project management and execution support.",
-    "thumb": "assests/images/gallery/thumbs/48.jpeg",
-    "full": "assests/images/gallery/48.png"
-  },
-  {
-    "id": 49,
-    "title": "Project Management — Execution Support",
-    "category": "site",
-    "description": "Execution support activity coordinated by the project management team.",
-    "thumb": "assests/images/gallery/thumbs/49.jpeg",
-    "full": "assests/images/gallery/49.png"
-  },
-  {
-    "id": 50,
-    "title": "Project Management — Team Coordination",
-    "category": "site",
-    "description": "Team coordination meeting supporting project management and execution.",
-    "thumb": "assests/images/gallery/thumbs/50.jpeg",
-    "full": "assests/images/gallery/50.png"
-  },
-  {
-    "id": 51,
-    "title": "NH-40 Project Execution",
-    "category": "road",
-    "description": "Project execution works along the NH-40 highway corridor, Ranipet.",
-    "thumb": "assests/images/gallery/thumbs/51.jpeg",
-    "full": "assests/images/gallery/51.jpg"
-  },
-  {
-    "id": 52,
-    "title": "Highway Project Execution — NH-40",
-    "category": "road",
-    "description": "Execution activity on the Walajapet–Ranipet NH-40 highway corridor.",
-    "thumb": "assests/images/gallery/thumbs/52.jpeg",
-    "full": "assests/images/gallery/52.png"
-  },
-  {
-    "id": 53,
-    "title": "Highway Corridor Works — NH-40",
-    "category": "road",
-    "description": "Ongoing works along the NH-40 highway corridor near the TN/AP border.",
-    "thumb": "assests/images/gallery/thumbs/53.jpeg",
-    "full": "assests/images/gallery/53.png"
-  },
-  {
-    "id": 54,
-    "title": "Highway Site Works — NH-40",
-    "category": "road",
-    "description": "Site works along the 4-lane NH-40 highway corridor, Ranipet.",
-    "thumb": "assests/images/gallery/thumbs/54.jpeg",
-    "full": "assests/images/gallery/54.png"
   }
 ]

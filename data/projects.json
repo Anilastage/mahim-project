@@ -48,8 +48,8 @@
     ]
   },
   {
-    "id": "state-highway-formation",
-    "title": "State Highway Subgrade Formation",
+    "id": "National-highway-formation",
+    "title": "National Highway Subgrade Formation",
     "subtitle": "Bulk Earthwork &amp; Subgrade Prep, South India",
     "type": "road",
     "typeLabel": "Road Formation",
@@ -58,7 +58,7 @@
     "period": "2025",
     "cover": "assests/images/gallery/thumbs/15.jpeg",
     "tags": ["Earthwork", "Geogrid", "Compaction"],
-    "summary": "Bulk earthwork, geogrid stabilization, and embankment compaction to bring the state highway formation to design subgrade levels.",
+    "summary": "Bulk earthwork, geogrid stabilization, and embankment compaction to bring the National highway formation to design subgrade levels.",
     "description": "Comprehensive site preparation covering bulk earthwork, embankment formation, and geogrid reinforcement installation ahead of pavement construction. The site team profiled the subgrade to strict design camber and cross-fall parameters, achieving required dry density standards prior to formal handover to the pavement contractor.",
     "stats": [
       {"label": "Scope", "value": "Road Subgrade &amp; Formation"},
@@ -98,7 +98,7 @@
   {
     "id": "panel-transport-logistics",
     "title": "Intersite Structural Logistics",
-    "subtitle": "Multi-State Heavy Transport Operations",
+    "subtitle": "Multi-National Heavy Transport Operations",
     "type": "casting",
     "typeLabel": "Logistics",
     "status": "Ongoing",
@@ -111,7 +111,7 @@
     "stats": [
       {"label": "Scope", "value": "Transport &amp; Heavy Handling"},
       {"label": "Status", "value": "Ongoing"},
-      {"label": "Coverage", "value": "Multi-State"}
+      {"label": "Coverage", "value": "Multi-National"}
     ],
     "images": [
       "assests/images/gallery/thumbs/14.jpeg",
