@@ -36,7 +36,6 @@
   .hero-actions .btn { justify-content: center; }
   .hero-stats { flex-wrap: wrap; gap: 1.5rem; }
   .cta-strip .inner { text-align: center; }
-  .back-to-top { right: 1rem; bottom: 1rem; width: 40px; height: 40px; }
   .nav-logo-sub { display: none; }
 }
 
@@ -48,7 +47,7 @@
 
 /* ===== PRINT ===== */
 @media print {
-  nav, .hamburger, .back-to-top, .cta-strip, .lightbox, footer .social-links { display: none !important; }
+  nav, .hamburger, .cta-strip, .lightbox, footer .social-links { display: none !important; }
   body { color: #000; }
   a { text-decoration: underline; }
 }
