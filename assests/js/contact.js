@@ -41,14 +41,25 @@ document.addEventListener('DOMContentLoaded', function () {
     e.preventDefault();
     errorBanner.classList.remove('show');
 
+    // 1. Validate standard form inputs
     if (!validateAll()) {
       errorBanner.textContent = 'Please fill in all required fields.';
       errorBanner.classList.add('show');
       return;
     }
 
+    // 2. Validate Google reCAPTCHA
+    if (typeof grecaptcha !== 'undefined') {
+      const captchaResponse = grecaptcha.getResponse();
+      if (!captchaResponse || captchaResponse.length === 0) {
+        errorBanner.textContent = 'Please check the "I\'m not a robot" box before submitting.';
+        errorBanner.classList.add('show');
+        return;
+      }
+    }
+
     if (FORMSPREE_ID === 'YOUR_FORMSPREE_ID') {
-      alert('⚙️  Setup needed:\n\nOpen assests/js/contact.js and replace YOUR_FORMSPREE_ID with your Formspree form ID.\nGet one free at formspree.io');
+      alert('⚙️ Setup needed:\n\nOpen assests/js/contact.js and replace YOUR_FORMSPREE_ID with your Formspree form ID.\nGet one free at formspree.io');
       return;
     }
 
@@ -77,6 +88,11 @@ document.addEventListener('DOMContentLoaded', function () {
       submitBtn.disabled = false;
       btnLabel.textContent = 'Send Enquiry';
       spinner.style.display = 'none';
+      
+      // Reset reCAPTCHA widget on error
+      if (typeof grecaptcha !== 'undefined') {
+        grecaptcha.reset();
+      }
     }
   });
 
@@ -90,6 +106,11 @@ document.addEventListener('DOMContentLoaded', function () {
     submitBtn.disabled = false;
     btnLabel.textContent = 'Send Enquiry';
     spinner.style.display = 'none';
+
+    // Reset reCAPTCHA box
+    if (typeof grecaptcha !== 'undefined') {
+      grecaptcha.reset();
+    }
   };
 
 });

@@ -1,10 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.mahimprojectsolutions.com/sitemap.xml
-
-
-done
-
-linkedit 
-Instagram 
+Sitemap: https://www.mahimproject.com/sitemap.xml

@@ -1,0 +1,5 @@
+Contact: mailto:info.mahimproject@gmail.com
+Contact: tel:+919561765721
+Canonical: https://mahimproject.com/.well-known/security.txt
+Preferred-Languages: en
+Expires: 2027-12-31T23:59:59Z
